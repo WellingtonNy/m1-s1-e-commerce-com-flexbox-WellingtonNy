@@ -70,8 +70,17 @@
     padding: 15px;
 }
 
+
+img{
+    object-fit: contain ;
+    height: 100%;
+    width: 100%;
+}
+
 .imagem-card {
-    height: 60%;
+  
+    height: 75%;
+    width: 90%;
 }
 
 .texto-card {
